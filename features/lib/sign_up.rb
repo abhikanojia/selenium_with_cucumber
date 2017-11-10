@@ -1,0 +1,2 @@
+class SignUp < Driver
+end
